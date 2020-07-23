@@ -2,13 +2,16 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
 Some information about you!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+## About Becker Support
+Becker Support Services LLC provides expert consulting services to organizations seeking professional insights and connections in the fields of wildland and structure fire management, aerial firefighting and intelligence gathering, and unmanned aerial services. 
+We are committed to supporting clients for mutual benefit, building strong professional relationships, and doing work for the enhancement of public well-being.
 
 ### Contact me
 
