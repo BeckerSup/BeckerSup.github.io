@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 The Jesusita Trail in Santa Barbara, California is a local treasure. Starting just 1.5 miles from downtown, the trail winds up through oak-lined canyons to breathtaking views of the city and ocean. When the prevailing sea breeze pushes the cool, salty coastal fog up the slope, the 1,574-foot climb can be invigorating. Not surprisingly, it is one of the most heavily-used trails in the area.
 
