@@ -27,4 +27,3 @@ Further reading:
 https://lompocrecord.com/news/local/crime-and-courts/two-men-charged-in-connection-with-jesusita-fire/article_e34ccc5c-e626-11de-936a-001cc4c03286.html
 
 https://www.independent.com/2013/08/01/jesusita-fire-settlement-reached/
-
