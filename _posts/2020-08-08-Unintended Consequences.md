@@ -24,6 +24,6 @@ Becker Support offers deep and varied expertise in structural and wildland fire 
 Factual information in this post that is not directly linked to its source is in the Santa Barbara County Fire Department’s Investigation Report of the Jesusita Fire. Copies of the report can be requested by emailing inspection.services@sbcfire.com and requesting a copy of the 2009 Jesusita Fire investigation report. The incident number is 09-SBC-3850/LPF 001479.
 
 Further reading:
-https://lompocrecord.com/news/local/crime-and-courts/two-men-charged-in-connection-with-jesusita-fire/article_e34ccc5c-e626-11de-936a-001cc4c03286.html
+[https://lompocrecord.com/news/local/crime-and-courts/two-men-charged-in-connection-with-jesusita-fire/article_e34ccc5c-e626-11de-936a-001cc4c03286.html] (https://lompocrecord.com/news/local/crime-and-courts/two-men-charged-in-connection-with-jesusita-fire/article_e34ccc5c-e626-11de-936a-001cc4c03286.html)
 
 https://www.independent.com/2013/08/01/jesusita-fire-settlement-reached/
