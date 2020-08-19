@@ -1,8 +1,6 @@
 ---
 published: true
 ---
-## Cause and Effect
-
 The entire state of California experienced a rare confluence of events this past weekend when tropical moisture rode overtop exceptionally strong surface high pressure and triggered widespread dry lightning across much of the state. This unfortunately occurred at the beginning of a prolonged and intense predicted heat wave. Containment efforts on the lightning starts are challenged by the adverse weather and competition for resources.
 
 Given the state's long history of large and damaging fires, as well as the increasing frequency of deadly fires ([3 of the 5 most destructive in State history occurred in the last five years](https://abc7news.com/california-wildfires-fire-update-wildfire-disaster/2516857/)), it might seem odd to call a fire bust like this rare. What sets this situation apart, though, is the natural cause. [Nationwide, 16% of wildfires are caused by lightning, while 95% of California wildfires are human-caused](https://www.latimes.com/california/story/2019-10-29/how-do-wildfires-start). The greater danger in situations like this - especially in California - is the potential for human-caused wildfires to follow the natural surge. Wildland fire management agencies use rating systems to track the availability of resources; according to the [National Interagency Coordination Center](https://gacc.nifc.gov/), the national Preparedness Level is currently 4 on a scale of 1 to 5 ([see pages 15-17 in this document](https://www.fs.usda.gov/Internet/FSE_DOCUMENTS/fseprd536080.pdf)), indicating that bringing shared resources into the State will be difficult. California can't afford human-caused exacerbation of worsening natural fire seasons.
