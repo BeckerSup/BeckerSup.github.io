@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 The United States Forest Service has released a final report on the Aerial Firefighting Use and Effectiveness (AFUE) study ([https://www.fs.usda.gov/sites/default/files/2020-08/08192020_afue_final_report_0.pdf](https://www.fs.usda.gov/sites/default/files/2020-08/08192020_afue_final_report_0.pdf)). This report attempts to summarize eight years of field data collection and analysis in 46 pages. While it leaves out the vast majority of information that the study produced, there are important beachheads that it establishes. Of particular importance is the principle of documenting the planned effects of aviation use along with detailed environmental conditions and contributing factors to the actual outcomes.
