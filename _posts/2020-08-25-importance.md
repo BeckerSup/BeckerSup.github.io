@@ -14,15 +14,18 @@ When people execute a plan correctly, but the results fail to meet intentions, t
 
 This is an individual challenge as much as it is an organizational challenge. This is where our heroes, the dirty, sleep-deprived, blistered, seasoned veterans - even the first-year survivors, since years like this count for more than one - can contribute to organizational change in a way that has not been possible before. The need has never been greater. If you're part of this class, please consider capturing a list of answers to the following questions for every situation (i.e. fire, shift, or other significant event) you recently experienced where things did not go according to plan. Bringing your experiences together with those of others will reveal common threads and ways to deal with new realities. Your questions are:
 
-    -What was the situation?
-    -What was the plan?
-    -When did you first realize that things were not going according to the plan?
-    -What caused the change?
-    -What alternatives to the next steps in the plan were available at that time?
-    -What alternatives could have preserved the intended outcome?
+  -What was the situation?
+  
+  -What was the plan?
+  
+  -When did you first realize that things were not going according to the plan?
+  
+  -What caused the change?
+  
+  -What alternatives to the next steps in the plan were available at that time?
+  
+  -What alternatives could have preserved the intended outcome?
     
-It's easy to become fixated on failures. While failures are almost always the events we need to deal with later, institutional changes can result in a worse overall situation if the current success rate is not accounted for when planning those changes. For that reason, also capture how many fires did go according to plan for you this season.
+It's easy to become fixated on failures. While failures are almost always the events we need to deal with later, institutional changes can result in a worse overall situation if the current success rate is not accounted for when planning those changes. For that reason, also capture how many fires _did_ go according to plan for you this season.
 
 Putting this list together might reveal some hidden lessons in your own experiences. The true value in the exercise, though, is in building a collective experience. Let your supervisor know about this assignment and share your list. Encourage them to create their own list, compare it with yours, and network with their peers. Push the collective learning outward and upward. We all need to be ready to rethink how we do our job, and by starting the change, you help set the direction. Have confidence and faith that good ideas float to the top. Continue to talk about this challenge and your results. Learn from others and add their experience to yours. This blog will circle back to this challenge, and the principles behind it will inform many more posts to come.
-
-
