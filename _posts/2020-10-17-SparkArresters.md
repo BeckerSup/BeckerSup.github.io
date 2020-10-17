@@ -22,4 +22,4 @@ Management of the qualification process on behalf of the manufacturer, including
 
 Our consulting engineers have direct experience with the Federal spark arrester qualification process and can help guide clients through the process, preventing costly delays in product development. 
 
-Becker Support engineering consultants also have extensive experience in the forensic investigation of equipment-caused wildfires, and can help clients determine if faulty equipment may have been responsible for starting a fire. 
+Becker Support engineering consultants also have extensive experience in the forensic investigation of equipment-caused wildfires, and can help clients determine if faulty equipment may have been responsible for starting a fire. [Contact us](https://www.beckersupport.net/contact) for more information.
