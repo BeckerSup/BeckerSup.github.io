@@ -17,8 +17,9 @@ To have their product listed in the Spark Arrester Guide, equipment manufacturer
 
 Becker Support provides specialized consulting services using licensed Professional Engineers to assist equipment manufacturers in the design and Federal qualification process for spark arrester systems. Services include:
 
-Spark arrester design/manufacturing consulting to assess compliance with the Society of Automotive Engineers (SAE) J350 test standard (Spark Arrester Test Procedure for Medium Sized Engines)
-Management of the qualification process on behalf of the manufacturer, including the submission of products for qualification by the United States Forest Service and other certifying agencies
+- Spark arrester design/manufacturing consulting to assess compliance with the Society of Automotive Engineers (SAE) J350 test standard (Spark Arrester Test Procedure for Medium Sized Engines)
+
+- Management of the qualification process on behalf of the manufacturer, including the submission of products for qualification by the United States Forest Service and other certifying agencies
 
 Our consulting engineers have direct experience with the Federal spark arrester qualification process and can help guide clients through the process, preventing costly delays in product development. 
 
